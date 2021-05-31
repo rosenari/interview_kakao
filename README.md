@@ -1,3 +1,5 @@
+# Pray on Monday
+
 ## 알고리즘 , 자료구조
 
 1. DFS와 BFS에 대해 설명해주세요.
